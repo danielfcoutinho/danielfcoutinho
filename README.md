@@ -6,7 +6,9 @@
 
 ☁️ Especialização em Cloud
 - **How Bootcamps | Engenharia de Dados** (01/2023 - 05/2023)
-- **Microsoft Certified: Azure Data Engineer Associate DP-203** (06/2023 - Até o momento)
+
+☁️ Certificados
+- **AWS Certified Cloud Practitioner**
 
 📖 Educação: Formado em Engenharia Eletrônica no CEFET/RJ 
 
