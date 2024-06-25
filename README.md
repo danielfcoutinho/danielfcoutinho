@@ -2,7 +2,7 @@
 
 🎯 **Engenheiro de Dados** e em busca da minha primeira oportunidade de trabalho na área para um desenvolvimento das minhas skills. Comunicativo, empático, organizado e bastante proativo, disponível para auxiliar a empresa nos projetos de ingestão e tratamento de dados.
 
-⚙️ Ferramentas e Skills: Python, SQL, Spark, Airflow, Docker, Metabase, PostgreSQL, MySQL, SQL Server, Airflow, Azure e AWS.
+⚙️ Ferramentas e Skills: Python, SQL, Power Bi, Spark, Airflow, Metabase, PostgreSQL, MySQL, SQL Server, Airflow, GCP e AWS.
 
 ☁️ Especialização em Cloud
 - **How Bootcamps | Engenharia de Dados** (01/2023 - 05/2023)
