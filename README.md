@@ -17,7 +17,7 @@
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg](https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-3628617-3029842.png)" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
 ##
