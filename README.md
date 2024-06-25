@@ -10,9 +10,7 @@
 ☁️ Certificados
 - **AWS Certified Cloud Practitioner**
 
-📖 Educação: Formado em Engenharia Eletrônica no CEFET/RJ 
-
-📚 Portfolio: https://dev.to/danielcoutinho
+📖 Educação: Formado em Engenharia Eletrônica no CEFET/RJ e cursando Análise e Desenvolvimento de Sistemas na Anhanguera
 
 💻 Atualmente mais focado em:
 
