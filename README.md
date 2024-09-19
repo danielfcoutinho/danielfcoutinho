@@ -1,23 +1,20 @@
 ### Olá, me chamo Daniel!
 
-🎯 **Engenheiro de Dados** e em busca da minha primeira oportunidade de trabalho na área para um desenvolvimento das minhas skills. Comunicativo, empático, organizado e bastante proativo, disponível para auxiliar a empresa nos projetos de ingestão e tratamento de dados.
+🎯 **Engenheiro de Dados** e em busca de desenvolvimento profissional. 
 
-⚙️ Ferramentas e Skills: Python, SQL, Power Bi, Spark, Airflow, Metabase, PostgreSQL, MySQL, SQL Server, Airflow, GCP e AWS.
-
-☁️ Especialização em Cloud
-- **How Bootcamps | Engenharia de Dados** (01/2023 - 05/2023)
+⚙️ Ferramentas e Skills: SQL | Python | ETL | Databricks | Spark | Apache Airflow | Azure | AWS
 
 ☁️ Certificados
 - **AWS Certified Cloud Practitioner**
 
-📖 Educação: Formado em Engenharia Eletrônica no CEFET/RJ e cursando Análise e Desenvolvimento de Sistemas na Anhanguera
+📖 Educação: Formado em Engenharia Eletrônica no CEFET/RJ
 
 💻 Atualmente mais focado em:
 
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
 
 ##
